@@ -56,10 +56,7 @@ To transform Mahindra’s raw data into meaningful insights that support high-im
 
 ```bash
 📦 Mahindra-Dashboards
- ┣ 📊 Mahindra_Sales_Overview.pbix
- ┣ 📊 Mahindra_Product_Showcase.pbix
- ┣ 📊 Mahindra_Car_Comparison.pbix
- ┣ 📊 Mahindra_Social_Media_Analytics.pbix
+ ┣ 📊 Mahindra_Dashboard.pbix
  ┣ 📁 datasets/
  ┃ ┣ 📄 sales_data.xlsx
  ┃ ┣ 📄 specs_data.xlsx
