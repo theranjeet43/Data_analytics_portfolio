@@ -1,6 +1,6 @@
 # 🚗 Mahindra Sales & Marketing Power BI Dashboard Project <br />
 
-<a https://github.com/theranjeet43/Data_analytics_portfolio/blob/main/Mahindra%20sales%20analytics.pbix </a>
+<https://github.com/theranjeet43/Data_analytics_portfolio/blob/main/Mahindra%20sales%20analytics.pbix </a>
 
 
 This repository showcases a complete Business Intelligence solution designed to analyze and visualize sales, product, and marketing data for **Mahindra & Mahindra** using **Microsoft Power BI**.
