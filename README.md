@@ -31,7 +31,7 @@ To transform Mahindra’s raw data into meaningful insights that support high-im
 - Helps decision-makers choose competitive models to promote
 
 ### 4. **Social Media Analytics Dashboard**
-<a >View Mahindra Dashboard Project</a>
+<a https://github.com/theranjeet43/Data_analytics_portfolio/blob/main/Mahindra%20Social%20media%20analysis%20page%20Dashboard.png >View Mahindra Dashboard Project</a>
 - Post engagement (likes, comments, shares)
 - Customer sentiment trends (positive/negative feedback)
 - Top-performing campaigns and post formats
