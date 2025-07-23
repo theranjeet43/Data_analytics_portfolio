@@ -19,7 +19,7 @@ To transform Mahindra’s raw data into meaningful insights that support high-im
 - Dynamic KPIs like total units sold, profit margin, and total revenue
 
 ### 2. **Product Showcase Dashboard**
-<a >View Mahindra Dashboard Project</a>
+<a https://github.com/theranjeet43/Data_analytics_portfolio/blob/main/Mahindra%20Car%20spec%20page%20Dashbord.png >View Mahindra Dashboard Project</a>
 - Visual display of each car model's specifications
 - Categories include: engine type, seating capacity, fuel type, transmission, and price
 - Interactive filters for comparison
