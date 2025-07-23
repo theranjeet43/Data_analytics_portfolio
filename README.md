@@ -11,7 +11,7 @@ To transform Mahindra’s raw data into meaningful insights that support high-im
 ## 📊 Dashboards Included
 
 ### 1. **Sales Overview Dashboard**
-<a >View Mahindra Dashboard Project</a>
+<a https://github.com/theranjeet43/Data_analytics_portfolio/blob/main/Mahindra%20sales%20page%20dashbord.png >View Mahindra Dashboard Project</a>
 
 - Monthly and yearly sales trends
 - Top-selling car models by units and revenue
