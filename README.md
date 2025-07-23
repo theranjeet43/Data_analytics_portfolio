@@ -25,7 +25,7 @@ To transform Mahindra’s raw data into meaningful insights that support high-im
 - Interactive filters for comparison
 
 ### 3. **Car Comparison Dashboard**
-<a  >View Mahindra Dashboard Project</a>
+<a https://github.com/theranjeet43/Data_analytics_portfolio/blob/main/Mahindra%20performance%20page%20dashboard.png >View Mahindra Dashboard Project</a>
 - Side-by-side comparison of any two selected models
 - Highlights features, prices, and unit performance
 - Helps decision-makers choose competitive models to promote
